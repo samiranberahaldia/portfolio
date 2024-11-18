@@ -1,13 +1,14 @@
 # **Profile Summary**
 - **PhD** in Mathematical Modelling and Optimisation from **IIT (ISM) Dhanbad**  
-- **Senior Data Scientist** with expertise in:  
-  - Mathematical Modelling & Optimisation  
-  - Fraud Detection and Anomaly Detection Models  
+- **Senior Data Scientist** with extensive experience in:  
+  - Analytics, Modelling & Optimisation  
+  - Fraud Detection, Anomaly Detection Models, Risk Logics
   - Time-Series Forecasting Models  
   - Natural Language Processing  
   - Customer Segmentation, Recommendation Systems, Cohort Analysis, Market Basket Analysis  
 - Strong programming skills in **Python** and **SQL**  
-- Published multiple research papers in peer-reviewed journals, conferences, book chapters, and articles on Medium  
+- Published several research papers in peer-reviewed journals, international conferences, and book chapters
+- Authored technical articles on Medium published in Towards AI, The Startup, and Analytics Vidya 
 - Mentored junior data scientists, MLOps teams, and interns  
 
 ---

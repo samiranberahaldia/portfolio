@@ -81,24 +81,27 @@
 # **Technical Skills**
 
 
-|------------------------|----------------------------------------------------------------------------------------------|
-| **Programming & Tools** | Python, R, Matlab, SQL, PowerBI, Jupyter Notebook, PyCharm, GIT                             |
-| **Data Science Skills** | Data Analysis, Data Profiling, Data Visualization, Data Quality Checks, Machine Learning    |
+| **Field**              | **Details**                                                                                 |
+|-------------------------|---------------------------------------------------------------------------------------------|
+| **Programming & Tools** | Python, R, Matlab, SQL, PowerBI, Jupyter Notebook, PyCharm, GIT                            |
+| **Data Science Skills** | Data Analysis, Data Profiling, Data Visualization, Data Quality Checks, Machine Learning   |
 | **Advanced Skills**     | Mathematical Modeling, Optimization, A/B Testing, Champion-Challenger Testing, Backtesting |
-| **Other Tools**         | GAMS, Latex, AWS (Redshift, SageMaker, S3, AutoPilot), Excel, Word, PowerPoint              |
+| **Other Tools**         | GAMS, Latex, AWS (Redshift, SageMaker, S3, AutoPilot), Excel, Word, PowerPoint             |
 
 
 
 
 # **Models Developed**
 
+
+| **Category**     | **Techniques**                                                                          |
 |-------------------|-----------------------------------------------------------------------------------------|
 | **Data Analysis** | Customer Lifetime Value, Cohort Analysis, Market Basket Analysis                       |
 | **Classification**| Anomaly Detection, Fraud Detection, Churn Analysis                                     |
 | **Clustering**    | Customer Segmentation, Recommendation Systems, Cellular Manufacturing                  |
 | **Regression**    | Time-Series Forecasting, Price Forecasting Models                                      |
 | **Optimization**  | Hybrid Branch and Bound Model, Grey Wolf Optimizer, Genetic Algorithm                  |
-| **NLP**           | Sentiment Analysis, Topic Modelling                                                    | 
+| **NLP**           | Sentiment Analysis, Topic Modelling                                                    |
 
 
 

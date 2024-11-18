@@ -80,9 +80,6 @@
 
 # **Technical Skills**
 
-
-| **Field**              | **Details**                                                                                 |
-|-------------------------|---------------------------------------------------------------------------------------------|
 | **Programming & Tools** | Python, R, Matlab, SQL, PowerBI, Jupyter Notebook, PyCharm, GIT                            |
 | **Data Science Skills** | Data Analysis, Data Profiling, Data Visualization, Data Quality Checks, Machine Learning   |
 | **Advanced Skills**     | Mathematical Modeling, Optimization, A/B Testing, Champion-Challenger Testing, Backtesting |
@@ -94,8 +91,6 @@
 # **Models Developed**
 
 
-| **Category**     | **Techniques**                                                                          |
-|-------------------|-----------------------------------------------------------------------------------------|
 | **Data Analysis** | Customer Lifetime Value, Cohort Analysis, Market Basket Analysis                       |
 | **Classification**| Anomaly Detection, Fraud Detection, Churn Analysis                                     |
 | **Clustering**    | Customer Segmentation, Recommendation Systems, Cellular Manufacturing                  |

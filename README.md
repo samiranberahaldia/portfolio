@@ -7,9 +7,10 @@
   - Natural Language Processing  
   - Customer Segmentation, Recommendation Systems, Cohort Analysis, Market Basket Analysis  
 - Strong programming skills in **Python** and **SQL**  
-- Published several research papers in peer-reviewed journals, international conferences, and book chapters
-- Authored technical articles on Medium published in Towards AI, The Startup, and Analytics Vidya 
-- Mentored junior data scientists, MLOps teams, and interns  
+- **Published research papers** in peer-reviewed journals, international conferences, and book chapters
+- Authored technical articles on Medium published in **Towards AI, The Startup**, and **Analytics Vidya**
+- Inteviewed talents across US, Europe & India for various roles at Blackhawk Network
+- Mentored data scientists, MLOps, and interns  
 
 ---
 

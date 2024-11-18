@@ -79,10 +79,14 @@
 ---
 
 # **Technical Skills**
-- **Programming & Tools**: Python, R, Matlab, SQL, PowerBI, Jupyter Notebook, PyCharm, GIT  
-- **Data Science Skills**: Data Analysis, Data Profiling, Data Visualization, Data Quality Checks, Machine Learning  
-- **Advanced Skills**: Mathematical Modeling, Optimization, A/B Testing, Champion-Challenger Testing, Backtesting  
-- **Other Tools**: GAMS, Latex, AWS (Redshift, SageMaker, S3, AutoPilot), Excel, Word, PowerPoint  
+
+| **Category**          | **Details**                                                                                  |
+|------------------------|----------------------------------------------------------------------------------------------|
+| **Programming & Tools** | Python, R, Matlab, SQL, PowerBI, Jupyter Notebook, PyCharm, GIT                             |
+| **Data Science Skills** | Data Analysis, Data Profiling, Data Visualization, Data Quality Checks, Machine Learning    |
+| **Advanced Skills**     | Mathematical Modeling, Optimization, A/B Testing, Champion-Challenger Testing, Backtesting |
+| **Other Tools**         | GAMS, Latex, AWS (Redshift, SageMaker, S3, AutoPilot), Excel, Word, PowerPoint              |
+
 
 ---
 

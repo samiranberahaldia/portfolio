@@ -162,8 +162,6 @@
 # **Connect with me**
 
 
-# Contact Information
-
 | **Field**  | **Details**                                                                        |
 |------------|------------------------------------------------------------------------------------|
 | **Name**   | Dr. Samiran Bera, PhD                                                             |

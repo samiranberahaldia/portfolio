@@ -80,6 +80,9 @@
 
 # **Technical Skills**
 
+
+| **Field**              | **Details**                                                                                 |
+|-------------------------|---------------------------------------------------------------------------------------------|
 | **Programming & Tools** | Python, R, Matlab, SQL, PowerBI, Jupyter Notebook, PyCharm, GIT                            |
 | **Data Science Skills** | Data Analysis, Data Profiling, Data Visualization, Data Quality Checks, Machine Learning   |
 | **Advanced Skills**     | Mathematical Modeling, Optimization, A/B Testing, Champion-Challenger Testing, Backtesting |
@@ -88,9 +91,11 @@
 
 
 
+
 # **Models Developed**
 
-
+| **Category**     | **Techniques**                                                                          |
+|-------------------|-----------------------------------------------------------------------------------------|
 | **Data Analysis** | Customer Lifetime Value, Cohort Analysis, Market Basket Analysis                       |
 | **Classification**| Anomaly Detection, Fraud Detection, Churn Analysis                                     |
 | **Clustering**    | Customer Segmentation, Recommendation Systems, Cellular Manufacturing                  |
@@ -156,18 +161,16 @@
 
 # **Connect with me**
 
-## Name
-Dr Samiran Bera, PhD
 
-## Email
-[samironbera@gmail.com](mailto:samironbera@gmail.com)
+# Contact Information
 
-## Website
-[https://samiranberahaldia.github.io/portfolio/](https://samiranberahaldia.github.io/portfolio/)
+| **Field**  | **Details**                                                                        |
+|------------|------------------------------------------------------------------------------------|
+| **Name**   | Dr. Samiran Bera, PhD                                                             |
+| **Email**  | [samironbera@gmail.com](mailto:samironbera@gmail.com)                             |
+| **Website**| [https://samiranberahaldia.github.io/portfolio/](https://samiranberahaldia.github.io/portfolio/) |
+| **Social** | [LinkTree](https://linktr.ee/samiranbera) <br> [LinkedIn](https://www.linkedin.com/in/berasamiran/)                                                  |
 
-## Social
-- [LinkTree](https://linktr.ee/samiranbera)
-- [LinkedIn](https://www.linkedin.com/in/berasamiran/)
 
----
+
 

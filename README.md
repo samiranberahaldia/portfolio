@@ -80,7 +80,7 @@
 
 # **Technical Skills**
 
-| **Category**          | **Details**                                                                                  |
+
 |------------------------|----------------------------------------------------------------------------------------------|
 | **Programming & Tools** | Python, R, Matlab, SQL, PowerBI, Jupyter Notebook, PyCharm, GIT                             |
 | **Data Science Skills** | Data Analysis, Data Profiling, Data Visualization, Data Quality Checks, Machine Learning    |
@@ -88,17 +88,20 @@
 | **Other Tools**         | GAMS, Latex, AWS (Redshift, SageMaker, S3, AutoPilot), Excel, Word, PowerPoint              |
 
 
----
+
 
 # **Models Developed**
-- **Data Analysis**: Customer lifetime value, Cohort Analysis, Market Basket Analysis
-- **Classification**: Anomaly Detection, Fraud Detection, Churn Analysis
-- **Clustering**: Customer Segmentation, Recommendation Systems, Cellular Manufacturing
-- **Regression**: Time-Series Forecasting, Price Forecasting Models
-- **Optimization**: Hybrid Branch and Bound Model, Grey Wolf Optimizer, Genetic Algorithm
-- **NLP**: Sentiment Analysis, Topic Modelling  
 
----
+|-------------------|-----------------------------------------------------------------------------------------|
+| **Data Analysis** | Customer Lifetime Value, Cohort Analysis, Market Basket Analysis                       |
+| **Classification**| Anomaly Detection, Fraud Detection, Churn Analysis                                     |
+| **Clustering**    | Customer Segmentation, Recommendation Systems, Cellular Manufacturing                  |
+| **Regression**    | Time-Series Forecasting, Price Forecasting Models                                      |
+| **Optimization**  | Hybrid Branch and Bound Model, Grey Wolf Optimizer, Genetic Algorithm                  |
+| **NLP**           | Sentiment Analysis, Topic Modelling                                                    | 
+
+
+
 
 # **Research & Publications**
 - **Journals**: Hybrid Agglomerative Clustering, Hybrid Branch and Bound Algorithm, Quantitative Analysis

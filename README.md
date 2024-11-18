@@ -87,18 +87,18 @@
 ---
 
 # **Models Developed**
-1. **Data Analysis**: Customer lifetime value, Cohort Analysis, Market Basket Analysis  
-2. **Classification**: Anomaly Detection, Fraud Detection, Churn Analysis  
-3. **Clustering**: Customer Segmentation, Recommendation Systems, Cellular Manufacturing  
-4. **Regression**: Time-Series Forecasting, Price Forecasting Models  
-5. **Optimization**: Hybrid Branch and Bound Model, Grey Wolf Optimizer, Genetic Algorithm  
-6. **NLP**: Sentiment Analysis, Topic Modelling  
+- **Data Analysis**: Customer lifetime value, Cohort Analysis, Market Basket Analysis
+- **Classification**: Anomaly Detection, Fraud Detection, Churn Analysis
+- **Clustering**: Customer Segmentation, Recommendation Systems, Cellular Manufacturing
+- **Regression**: Time-Series Forecasting, Price Forecasting Models
+- **Optimization**: Hybrid Branch and Bound Model, Grey Wolf Optimizer, Genetic Algorithm
+- **NLP**: Sentiment Analysis, Topic Modelling  
 
 ---
 
 # **Research & Publications**
-1. **Journals**: Hybrid Agglomerative Clustering, Hybrid Branch and Bound Algorithm, Quantitative Analysis  
-2. **Medium**: Articles on Backtesting Strategy, Customer Segmentation, Feature Selection, and Optimization Problems  
+- **Journals**: Hybrid Agglomerative Clustering, Hybrid Branch and Bound Algorithm, Quantitative Analysis
+- **Medium**: Articles on Backtesting Strategy, Customer Segmentation, Feature Selection, and Optimization Problems  
 
 ---
 
@@ -124,6 +124,8 @@
 5. Technical writer at **Analytics Vidya**, **The Startup**, and **Towards AI** on Medium.  
 6. Ranked 2nd (Silver Medalist) in Master’s Program (2014).  
 
+
+
 ---
 
 # **Interests & Hobbies**
@@ -131,9 +133,36 @@
 - Technical Writing  
 - Epoxy Resin DIY Projects  
 
+
+
 ---
 
 # **Languages**
 - **English**: Fluent  
 - **Hindi**: Fluent  
 - **Bengali**: Fluent (Native)  
+
+
+
+---
+
+
+
+
+# **Connect with me**
+
+## Name
+Dr Samiran Bera, PhD
+
+## Email
+[samironbera@gmail.com](mailto:samironbera@gmail.com)
+
+## Website
+[https://samiranberahaldia.github.io/portfolio/](https://samiranberahaldia.github.io/portfolio/)
+
+## Social
+- [LinkTree](https://linktr.ee/samiranbera)
+- [LinkedIn](https://www.linkedin.com/in/berasamiran/)
+
+---
+

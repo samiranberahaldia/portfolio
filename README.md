@@ -20,14 +20,14 @@
 *(March 2022 – Present)*  
 1. **Developed Direct-to-Consumer Fraud Detection Model**:  
    - Designed **XGBoost** model integrated with **KMeans clustering** for risk profile categorization.  
-   - Improved fraud detection metrics: increased recall score and critical success index (~6%).  
-   - Enhanced business metrics: approval rate & net profit (~3%), and reduced chargeback & opportunity cost (~15%).  
-   - Replaced external risk vendors, improving organizational control on order approvals (~3%).  
+   - Improved fraud detection metrics: increased recall score and critical success index.  
+   - Enhanced business metrics: approval rate & net profit (~3%), and reduced chargeback & opportunity cost.  
+   - Replaced external risk vendors, improving organizational control on order approvals.  
 
 2. **Enhanced Existing Fraud Detection Model**:  
    - Introduced new predictors by developing fraudster profiling using statistical measures.  
    - Conducted model retraining with cross-validation, backtesting, and champion-challenger tests.  
-   - Improved fraud identification, reducing significant chargebacks (~17%).  
+   - Improved fraud identification, reducing significant chargebacks.  
 
 3. **Developed Proof-of-Concept for Customer Segmentation**:  
    - Implemented **RFM analysis** and **KMeans clustering**.  
@@ -41,11 +41,11 @@
 *(February 2021 – February 2022)*  
 1. **Refreshed Fraud Detection Model**:  
    - Retrained **XGBoost** model using feedback signals with cross-validation, champion-challenger tests, and drift analysis.  
-   - Enhanced fraud detection: reduced chargebacks (~40%) and increased approval rate (~2%) while decreasing reviews (~14%).  
+   - Enhanced fraud detection: reduced chargebacks and increased approval rate while decreasing reviews.  
 
 2. **Time-Series Problem for Gift Card Sales**:  
    - Built **XGBoost-based** time-series model with features like date, holidays, and anomalies.  
-   - Achieved significant performance improvement (error reduction ~10% MAPE).  
+   - Achieved significant performance improvement (error reduction in MAPE).  
 
 ---
 

@@ -18,34 +18,42 @@
 
 ## **Senior Data Scientist**, Blackhawk Network, India  
 *(March 2022 – Present)*  
-1. **Developed Direct-to-Consumer Fraud Detection Model**:  
-   - Designed **XGBoost** model integrated with **KMeans clustering** for risk profile categorization.  
-   - Improved fraud detection metrics: increased recall score and critical success index.  
-   - Enhanced business metrics: approval rate & net profit (~3%), and reduced chargeback & opportunity cost.  
-   - Replaced external risk vendors, improving organizational control on order approvals.  
 
-2. **Enhanced Existing Fraud Detection Model**:  
+- **Developed Direct-to-Consumer Fraud Detection Model**:
+
+
+
+- **Improved Existing Fraud Detection Modelling Approach**:  
    - Introduced new predictors by developing fraudster profiling using statistical measures.  
    - Conducted model retraining with cross-validation, backtesting, and champion-challenger tests.  
    - Improved fraud identification, reducing significant chargebacks.  
 
-3. **Developed Proof-of-Concept for Customer Segmentation**:  
-   - Implemented **RFM analysis** and **KMeans clustering**.  
 
-4. **PowerBI Dashboard Development**:  
-   - Built dashboards to monitor 800+ brand performances using business KPIs.  
+
+- **Interpret Comments & Annotation using Natural Language Processing**:  
+   - TBD
+
+- **Data Drift Detector for Machine Learning Models**
+   - TBD
+
+ - **Interactive Voice Response System for Customer Feedback**
+   - TBD
 
 ---
 
 ## **Data Scientist**, Blackhawk Network, India  
 *(February 2021 – February 2022)*  
-1. **Refreshed Fraud Detection Model**:  
-   - Retrained **XGBoost** model using feedback signals with cross-validation, champion-challenger tests, and drift analysis.  
-   - Enhanced fraud detection: reduced chargebacks and increased approval rate while decreasing reviews.  
+- **Upgraded Fraud Detection Model Developement Process**:  
+   - Developed ML Pipeline to update ML models which includes drift analysis, champion challenger test, AB Testing, backtesting based on business KPIs such as approval rate and chargebacks, operational and opportunity costs, and net revenue growth
 
-2. **Time-Series Problem for Gift Card Sales**:  
-   - Built **XGBoost-based** time-series model with features like date, holidays, and anomalies.  
-   - Achieved significant performance improvement (error reduction in MAPE).  
+- **Customer Segmentation through RFM Analysis**
+  - Identify customer groups for strategic marketing and targeting to better identify customer preferences across multiple product lines and brands. The criteria for segmentations is based on purchase frequency and pattern, monetary contribution and distribution, geographical proximity and influence.
+
+- **Gift Card - Holiday Season Forecasting using ARIMA & XGBoost**:  
+  - Develop forecasting model to predict sales volume during November - December for inventory planning and management. To meet business requirement, the forecasting accuracy was statistically above 95% for different product types and channels.
+
+- **PowerBI Dashboard Development**:  
+   - Built dashboards to monitor 800+ brand performances using business KPIs. 
 
 ---
 
